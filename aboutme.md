@@ -1,15 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What I'm doing here
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Elizaveta Olar. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I'm trying to build a page with jekyll
+- I'm extremely annoyed already
 
-What else do you need?
+What else I should do?
 
 ### my history
 
