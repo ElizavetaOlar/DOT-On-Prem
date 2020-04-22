@@ -1,16 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: What I'm doing here
+title: About DOT
+subtitle: Who is behind DOT
 ---
 
-My name is Elizaveta Olar. I have the following qualities:
+My name is Elizaveta Olar. I'm product owner for DOT On-Prem. Behind the DOT On-Prem there is a big team of talanted motivated people from all over the world: India, Spain, Germany, who is continously developing the DOT On-Prem  and all the innersource community accross Daimler, who diligent contributes to the DOT On-Prem.
 
-- I'm trying to build a page with jekyll
-- I'm extremely annoyed already
-
-What else I should do?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Feel free to provide us with feedback, praises and criticism, to help us always to keep a right direction.
