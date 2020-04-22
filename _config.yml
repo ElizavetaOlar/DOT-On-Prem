@@ -20,7 +20,7 @@ description: here you learn everything what you want to know about DOT On-Prem
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About DOT On-Prem: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - DHC/DevOpsToolchain: "https://git.daimler.com/DHC/DevOpsToolchain/"
