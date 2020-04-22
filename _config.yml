@@ -23,6 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - DHC/DevOpsToolchain: "https://git.daimler.com/DHC/DevOpsToolchain/"
   Author's home: "https://git.daimler.com/olareli"
 
 # Image to show in the navigation bar - image must be a square (width = height)
